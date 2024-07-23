@@ -1,0 +1,2 @@
+OpenAI_API_Key = {Your OpenAI API Key}
+Google_Maps_API_Key = {Your Google Maps API Key}
